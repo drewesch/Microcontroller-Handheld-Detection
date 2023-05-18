@@ -41,7 +41,7 @@ pip install serial --upgrade google-cloud-texttospeech playsound pyttsx3
 
 
 ## Model Installation Guide
-This repository comes included with two Edge Impulse models that are optimized for Arduino Nano 33 BLE Sense. These zip files are custom Arduino IDE libraries that can be installed directly in Arduino IDE. These files are called:
+This repository comes included with two Edge Impulse models that are optimized for TinyML with TensorFlow Lite on Arduino Nano 33 BLE Sense, and are packaged here as zip files. These zip files are custom libraries that can be installed directly in Arduino IDE:
 - ei-handheld-detection-arduino-1.0.16.zip: Object Detection Model
 - ei-handheld-voice-recognition-arduino-1.0.4.zip: Speech Recognition Model
 
